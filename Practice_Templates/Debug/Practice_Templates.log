@@ -1,0 +1,10 @@
+﻿  Practice_Templates.cpp
+C:\Users\justi\source\repos\CppPlayground\Practice_Templates\Practice_Templates.cpp(48,18): warning C4834: discarding return value of function with 'nodiscard' attribute
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\include\algorithm(212,13): error C2064: term does not evaluate to a function taking 1 arguments
+C:\Users\justi\source\repos\CppPlayground\Practice_Templates\Practice_Templates.cpp(48): message : see reference to function template instantiation 'int std::count_if<std::_String_iterator<std::_String_val<std::_Simple_types<_Elem>>>,char>(_InIt,_InIt,_Pr)' being compiled
+          with
+          [
+              _Elem=char,
+              _InIt=std::_String_iterator<std::_String_val<std::_Simple_types<char>>>,
+              _Pr=char
+          ]
